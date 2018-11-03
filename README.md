@@ -9,3 +9,6 @@
 4. 执行 createtable 新建 Cars 表，并插入测试数据
 
 5. 执行 retrieve 从表中检索测试数据
+
+具体接口说明见[官方文档](https://dev.mysql.com/doc/refman/8.0/en/c-api.html)
+**查阅文档时需要注意版本号是否一致**
